@@ -1,0 +1,8 @@
+1. Give input only as the .exel file that includes only mails.
+2. Open "main.py" file and edit the sender's email and password on line number 24 and 25
+	sender_address.set("youremail@gmail.com")
+        sender_pass.set("yourPassword")
+3. Before entering your gmail, change your gmail setting
+	Low secure device to "OFF".
+3. Then run this program
+4. Now you can edit the subject and content and even can attach the file.
